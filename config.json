@@ -1,0 +1,31 @@
+{   
+    "user profile" : [
+        "name",
+        "url",
+        "description",
+        "protected",
+        "followers_count",
+        "friends_count",
+        "favourites_count",
+        "statuses_count",
+        "profile_use_background_image",
+        "default_profile_image"
+    ],
+    "user tweet" : [
+        "created_at",
+        "truncated",
+        "retweet_count",
+        "favorite_count",
+        "favorited",
+        "possibly_sensitive",
+        "retweeted",
+        "is_quote_status",
+        "entities",
+        "text"
+    ],
+    "user mention" : [
+        "id",
+        "text"
+    ]
+    
+}

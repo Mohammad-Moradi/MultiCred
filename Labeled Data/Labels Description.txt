@@ -1,0 +1,11 @@
+first column	:	domain
+second column	:	twitter username
+third column	:	Does not repeatedly publish false content 22 points
+fifth column	:	Gathers and presents information responsibly 18 points
+sixth column	:	Regularly corrects or clarifies errors 12.5 points
+seventh column	:	Handles the difference between news and opinion responsibly 12.5 points
+eighth column	:	Avoids deceptive headlines 10 points
+ninth column	:	Website discloses ownership and financing 7.5 points
+tenth column	:	Clearly labels advertising 7.5 points
+eleventh column	:	Reveals who's in charge, including any possible conflicts of interest 5 points
+twelveth column :	The site provides names of content creators, along with either contact or biographical information 5 points
