@@ -1,7 +1,7 @@
 # MultiCred
 This project implements the "Multilevel User Credibility Assessment in Social Networks" article provided by the authors. All the packages used are placed in the requirements.txt file, and you can install them using the following command: <br>
 &nbsp; &nbsp; &nbsp; &nbsp; `pip install -r requirements.txt` <br>
-The dataset used is located in the `Labeled Data` directory. This dataset has been created from the original dataset after preprocessing. The list of features used is placed in the `Config.json` file. By running the `Data_Preprocessing.py` file on the original dataset, all the features specified in the Config file are extracted. You can extract your desired features by modifying this file.<br>
+The dataset used is located in the `Labeled Data` directory. This dataset has been created from the [original dataset](https://drive.google.com/file/d/1LPxDKzkztyFqIuFY74BxvrVXEkXhS94E/view?usp=sharing) after preprocessing. The list of features used is placed in the `Config.json` file. By running the `Data_Preprocessing.py` file on the original dataset, all the features specified in the Config file are extracted. You can extract your desired features by modifying this file.<br>
 
 The `non_textual_features_vectorizer.ipynb` file transforms all the numerical features of user-profiles and their tweets into vectors and saves them in the `Non textual features` directory. The `non_textual_features_embedding.ipynb` file creates embeddings for numerical features for each user and places them in the `Non textual features` directory.<br>
 
